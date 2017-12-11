@@ -12,7 +12,7 @@
 <li>Determine d as d ≡ e−1 (mod λ(n)); i.e., d is the modular multiplicative inverse of e (modulo λ(n)).</li>
 </ol>
 </blockquote>
-<p><em>q</em>, <em>p</em> and <em>q</em> are already given.<br><em>d</em> satisfy a formula <code>e * d (mod λ(n)) = 1</code> so we can calculate it by using <a href="https://en.wikipedia.org/wiki/Extended_Euclidean_algorithm" target="_blank" rel="noopener">Extended Euclidean algorithm</a>.</p>
+<p><em>p</em>, <em>q</em> and <em>e</em> are already given.<br><em>d</em> satisfy a formula <code>e * d (mod λ(n)) = 1</code> so we can calculate it by using <a href="https://en.wikipedia.org/wiki/Extended_Euclidean_algorithm" target="_blank" rel="noopener">Extended Euclidean algorithm</a>.</p>
 <blockquote>
 <p>Decryption</p>
 <p>Alice can recover m from c by using her private key exponent d by computing<br>c^d ≡ (m^e)^d ≡ m (mod n)<br>Given m, she can recover the original message M by reversing the padding scheme.</p>
