@@ -37,25 +37,4 @@
     
   </entry>
   
-  <entry>
-    <title>hello_world</title>
-    <link href="http://suzupy.github.com/hello-world/"/>
-    <id>http://suzupy.github.com/hello-world/</id>
-    <published>2017-12-11T15:14:45.000Z</published>
-    <updated>2017-12-11T15:29:59.903Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="neko"><a href="#neko" class="headerlink" title="neko"></a>neko</h1><h2 id="nyan"><a href="#nyan" class="headerlink" title="nyan"></a>nyan</h2><ul><li>foo<ul><li>bar</li></ul></li><li>hoge<ul><li>piyo</li></ul></li></ul><p><a href="https://hexo.io/" target="_blank" rel="noopener">hexo</a></p><figure class="highlight ruby"><figcaption><span>hello.rb</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">puts <span class="string">'hello world'</span></span><br></pre></td></tr></table></figure><p>Say <code>hello world</code></p><p><em>foo</em><br><strong>foooo</strong><br><em>fooooooooo</em><br><del>nyan</del></p><p><details><summary>hey</summary><br><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">printf</span>(<span class="string">"%s\n"</span>, <span class="string">"hoge"</span>);</span><br></pre></td></tr></table></figure></details></p><ol><li>one</li><li>two</li><li>three</li></ol><ul><li style="list-style: none"><input type="checkbox"> check1</li><li style="list-style: none"><input type="checkbox" checked> check2</li></ul><blockquote><p>qwerty</p></blockquote><hr><table><thead><tr><th style="text-align:left">hey</th><th style="text-align:left">a</th></tr></thead><tbody><tr><td style="text-align:left">yeah</td><td style="text-align:left">ccc</td></tr><tr><td style="text-align:left">hoi</td><td style="text-align:left">ddddd</td></tr></tbody></table>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;neko&quot;&gt;&lt;a href=&quot;#neko&quot; class=&quot;headerlink&quot; title=&quot;neko&quot;&gt;&lt;/a&gt;neko&lt;/h1&gt;&lt;h2 id=&quot;nyan&quot;&gt;&lt;a href=&quot;#nyan&quot; class=&quot;headerlink&quot; title=&quot;nyan&quot;&gt;&lt;/a
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
 </feed>
