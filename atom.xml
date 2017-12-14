@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://suzupy.github.com/"/>
-  <updated>2017-12-12T17:12:53.080Z</updated>
+  <updated>2017-12-14T08:32:38.230Z</updated>
   <id>http://suzupy.github.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hardening 2017 Fes</title>
+    <link href="http://suzupy.github.com/hardening2017fes/"/>
+    <id>http://suzupy.github.com/hardening2017fes/</id>
+    <published>2017-12-14T08:09:30.000Z</published>
+    <updated>2017-12-14T08:32:38.230Z</updated>
+    
+    <content type="html"><![CDATA[<p>Team Noresore11のLinux担当で参加  </p><p>見込み販売力(総合点): 2位<br>顧客点: 2位<br>技術点: 1位<br>対応点: 2位</p><p>Trend Micro賞 受賞</p><p>結果発表の様子 (06:07:00~) : <a href="https://www.youtube.com/watch?v=me4rM9OVtNg" target="_blank" rel="noopener">https://www.youtube.com/watch?v=me4rM9OVtNg</a>  </p><p><img src="1.jpg" alt="alt" title="title" width="600"><br><img src="2.png" alt="alt" title="title" width="600"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Team Noresore11のLinux担当で参加  &lt;/p&gt;
+&lt;p&gt;見込み販売力(総合点): 2位&lt;br&gt;顧客点: 2位&lt;br&gt;技術点: 1位&lt;br&gt;対応点: 2位&lt;/p&gt;
+&lt;p&gt;Trend Micro賞 受賞&lt;/p&gt;
+&lt;p&gt;結果発表の様子 (06:07:00~) : 
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>SECCON 2017 Writeup</title>
