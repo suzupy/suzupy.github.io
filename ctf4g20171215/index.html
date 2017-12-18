@@ -6,7 +6,7 @@
 <h2 id="解答-1"><a href="#解答-1" class="headerlink" title="解答"></a>解答</h2><p>Downloads.rarを解凍し、解凍先ディレクトリの代替データストリーム (ADS) を表示する<br>swt0006-024.jpg:Flag.txt:$DATAからフラグが得られる</p>
 <h2 id="補足"><a href="#補足" class="headerlink" title="補足"></a>補足</h2><p>ADSとはWindowsのファイルシステムNTFSで使われる、ファイルに紐付くメタデータのこと</p>
 <p><a href="2.png"><img src="2.png" alt="alt" title="2.png" width="700"></a></p>
-<h1 id="初級問題3"><a href="#初級問題3" class="headerlink" title="初級問題3"></a>初級問題3</h1><h2 id="問題-2"><a href="#問題-2" class="headerlink" title="問題"></a>問題</h2><p>.dox形式のファイルからflagを得る</p>
+<h1 id="初級問題3"><a href="#初級問題3" class="headerlink" title="初級問題3"></a>初級問題3</h1><h2 id="問題-2"><a href="#問題-2" class="headerlink" title="問題"></a>問題</h2><p>.doc形式のファイルからflagを得る</p>
 <h2 id="解答-2"><a href="#解答-2" class="headerlink" title="解答"></a>解答</h2><p>拡張子を.zipに変更しファイルを解凍する<br>解凍先ディレクトリ内のflag.txtからflagが得られる</p>
 <h1 id="中級問題1"><a href="#中級問題1" class="headerlink" title="中級問題1"></a>中級問題1</h1><h2 id="問題-3"><a href="#問題-3" class="headerlink" title="問題"></a>問題</h2><p>ctf4g.pngの中からflagを得る</p>
 <h2 id="解答-3"><a href="#解答-3" class="headerlink" title="解答"></a>解答</h2><p>ctf4g.pngをバイナリエディタで開くと文字列 <code>hoge/flag.bmp</code> <code>hoge/flag.bmpPK</code> が確認できる<br>PKはzipのマジックナンバーなのでpngの中にzipが埋め込まれていると当たりをつけ、<code>hoge/flag.bmp</code> の少し前にある <code>PK</code> より前のデータをすべて削除し解凍する</p>
