@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://suzupy.github.com/"/>
-  <updated>2017-12-18T13:50:28.966Z</updated>
+  <updated>2017-12-20T14:54:44.739Z</updated>
   <id>http://suzupy.github.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ACM-ICPC 2017 Asia Tsukuba Regional</title>
+    <link href="http://suzupy.github.com/acm-icpc-2017-asia-tsukuba-regional/"/>
+    <id>http://suzupy.github.com/acm-icpc-2017-asia-tsukuba-regional/</id>
+    <published>2017-12-20T14:42:15.000Z</published>
+    <updated>2017-12-20T14:54:44.739Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://icpc.iisf.or.jp/2017-tsukuba/regional/" target="_blank" rel="noopener">https://icpc.iisf.or.jp/2017-tsukuba/regional/</a></p><p><a href="http://acm-icpc.aitea.net/" target="_blank" rel="noopener">JAG</a>のスタッフとして参加していた</p><h2 id="12-16"><a href="#12-16" class="headerlink" title="12/16"></a>12/16</h2><p>前日CTF for GIRLSに出ていたら妙に眠れず1.5時間睡眠になる<br>更にTXで酔って体調が最悪になる</p><p>会場到着。お手洗いで掃除の人に何が開催されるのか聞かれていたら集合に遅刻する<br>何も分からなくなったのでふらふらしていた、参加チームが座る椅子や風船を挿すポールを運んでいた気がする<br>午前はあまりできることがなかった</p><p>配布されたお弁当を食べる。周りにいた人々が静かなので落ち着く</p><p>午後さまよっていたら受付係になる。会場到着した参加チームを英語で案内する係<br>受付列の整理があまりうまくできず反省</p><p>受付が終わって休んでいたらプラクティスが始まり、風船やプリントを会場に運んだ<br>運搬係は3年前にやっていて慣れており特筆すべきことはなにもない<br>手が空いた時に会場をうろうろしていた</p><p>終わって選手と共に歓迎会でごはんを食べる。足が限界になりずっと座っていた  </p><h2 id="12-17"><a href="#12-17" class="headerlink" title="12/17"></a>12/17</h2><p>前日と同じく受付係をする。電子機器の持ち込みチェックが甘く反省<br>コンテスト開始前後は会場をうろうろしていた。開始前にUSB持ち込みが発見され回収</p><p>その後も適宜うろうろしたり運搬したりしていた。黄色と薄緑の風船の判別が難しい  </p><p>コンテスト終了後は急いで会場の撤収作業をする。スイッチを見ると社会にいた時のことを思い出すのか体調が悪くなってつらかった<br>作業が一段落ついたところで表彰を見に行く。Yes/Noおじさんという人がいるらしいが昔からいたのかよく分からない  </p><p>懇親会中は足が死んでいてほとんど外で座っていた<br>ごはんを少し食べ参加証明書を受け取り終わり</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;https://icpc.iisf.or.jp/2017-tsukuba/regional/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://icpc.iisf.or.jp/2017-tsukuba/regional/&lt;/a
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>第8回 CTF for GIRLS 演習問題 Writeup</title>
