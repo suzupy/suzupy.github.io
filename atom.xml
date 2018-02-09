@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://suzupy.github.com/"/>
-  <updated>2017-12-20T14:54:44.739Z</updated>
+  <updated>2018-02-09T02:48:52.973Z</updated>
   <id>http://suzupy.github.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>GitHubの2段階認証をサポート経由で解除する</title>
+    <link href="http://suzupy.github.com/disable-github-two-factor-auth/"/>
+    <id>http://suzupy.github.com/disable-github-two-factor-auth/</id>
+    <published>2018-02-09T02:16:02.000Z</published>
+    <updated>2018-02-09T02:48:52.973Z</updated>
+    
+    <content type="html"><![CDATA[<p>2段階認証の数字が取得できなくなり、かつrecovery codesを紛失したときはSSH用秘密鍵さえあれば2段階認証の解除を要求することができる  </p><h1 id="前提"><a href="#前提" class="headerlink" title="前提"></a>前提</h1><p>GitHubとのSSH用秘密鍵が手元に残っている</p><h1 id="手順"><a href="#手順" class="headerlink" title="手順"></a>手順</h1><ol><li><a href="https://github.com/contact" target="_blank" rel="noopener">Contact GitHub</a>に発生している問題とverification tokenを連絡</li><li>サポートからのメールに返信</li><li>2段階認証解除を確認</li></ol><h1 id="Contact-GitHubに発生している問題を連絡"><a href="#Contact-GitHubに発生している問題を連絡" class="headerlink" title="Contact GitHubに発生している問題を連絡"></a>Contact GitHubに発生している問題を連絡</h1><p><a href="https://github.com/contact" target="_blank" rel="noopener">https://github.com/contact</a> のサポートフォームから</p><p>Name: 任意の名前<br>Email: サポートメールを受け取るアドレス<br>Subject: 「2段階認証を解除してくれ」という旨の英文<br>How can we help?: 「2段階認証の数字が取得でない, recovery codesも無いため認証解除してほしい」という旨の英文とverification token</p><p>を送信する</p><p>verification tokenは以下のコマンドで取得</p><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ ssh -T git@github.com verify</span><br><span class="line">Please provide the following verification token to GitHub Support.</span><br><span class="line">xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</span><br></pre></td></tr></table></figure><h1 id="サポートからのメールに返信"><a href="#サポートからのメールに返信" class="headerlink" title="サポートからのメールに返信"></a>サポートからのメールに返信</h1><p>しばらく待つとEmailに入力したアドレスにサポートからのメールが届く<br>(今回の解除要求では1時間ほどで届いた)</p><blockquote><p>The quickest way to regain access to an account is by using the recovery codes we asked you to download when you enabled 2FA for your account. Even if you think you might not have them, it’s worth searching your computer and backups just to be sure; you’d be surprised how often these turn up! They would have had the default filename github-recovery-codes.txt or github_2fa_recovery_codes.txt.</p><p>If you definitely don’t have valid recovery codes, please let us know.</p><p>Thanks,</p></blockquote><p>How can we help?にrecovery codesが無いと書いてもこれが届いたため、おそらく内容に関わらず1度は探すよう要求するのだと思われる<br>しっかり探した上で見つからなかったので解除して欲しいと返信</p><h1 id="2段階認証解除を確認"><a href="#2段階認証解除を確認" class="headerlink" title="2段階認証解除を確認"></a>2段階認証解除を確認</h1><p>折り返し2段階認証を解除したという内容のメールが届くため、ログインして解除を確認する</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;2段階認証の数字が取得できなくなり、かつrecovery codesを紛失したときはSSH用秘密鍵さえあれば2段階認証の解除を要求することができる  &lt;/p&gt;
+&lt;h1 id=&quot;前提&quot;&gt;&lt;a href=&quot;#前提&quot; class=&quot;headerlink&quot; title=&quot;前提&quot;&gt;&lt;
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>ACM-ICPC 2017 Asia Tsukuba Regional</title>
